@@ -1,6 +1,6 @@
 # Scrollable icons with pure CSS and SVG
 
-Since Apple and modern web developers like to hide scrollbar when it is not active and it is not always easy to design content that will tell by its appereance "Hey, you can scroll me, I got more content outside viewport! I made this little css library.
+Since Apple and modern web browsers like to hide scrollbar when it is not active and it is not always easy to design content that will tell by its appereance "Hey, you can scroll me, I got more content outside viewport! I made this little css library.
 
 This package let you use small SVG icons inside area, you want to tell is scrollable.
 
